@@ -1,0 +1,117 @@
+ot@ip-172-31-42-151 ec2-user]# history
+    1  ls
+    2  chmod 700 althaf--------------permissions for file
+    3  ls -ltr----------------------- to see list of files in log format
+    4  ls------------------------------list of files
+    5  cd dinesh/ -----------------------login into directory
+
+      cp aws srikanth ------------copy file to floder
+      mv aws srikanth -------------move file to folder
+      mv aws althaf -------------------rename file name
+    6  ls
+    7  cd srikanth/---------------------loginto folder
+    8  ls -ltr
+    9  chown -R ec2-user:ec2-user sai---------------------ownership permissions
+   10  ls -ltr
+   11  rm dileep----------------delete file
+   12  rm -f dileep----------------------delete file forcefully
+   13  ls -l
+   14  cd ../..  ------------------------------to exit folders
+   15  ls -l
+   16  rm dinesh
+   17  rm -f dinesh/ -----------------------delete folder
+   18  chmod 700 dinesh/
+   19  rm -f dinesh/
+   20  rm -rf dinesh/
+   21  ls
+   22  ls
+   23  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+   19  git add README.md
+   20  touch megha
+   21  ls
+   22  git add
+   23  git add .
+   24  git status
+   25  git config
+   26  git clone https://github.com/RAJANI9/myweb.git
+   27  ls
+   28  cd myweb/
+   29  ls
+   30  git status
+   31  touch meghana
+   32  git add .
+   33  git status
+   34  git commit
+   35   git config --global
+   36   git config --global  vadlarajinikanth9@gmail.com
+   37  git push orgin master https://github.com/RAJANI9/myweb.git
+   38  ssh -i "HP.pem" ec2-user@ec2-13-233-186-15.ap-south-1.compute.amazonaws.com
+   39  ssh -i "HP.pem" ec2-user@ec2-13-233-237-155.ap-south-1.compute.amazonaws.com
+   40  ssh -i "vodafone.pem" ec2-user@ec2-13-126-182-144.ap-south-1.compute.amazonaws.com
+   41  ssh -i "vodafone.pem" ec2-user@ec2-13-126-182-144.ap-south-1.compute.amazonaws.com
+   42  git init
+   43  git clone https://github.com/RAJANI9/myweb.git
+   44  ls
+   45  cd myweb/
+   46  ls
+   47  touch megha
+   48  git status
+   49  git add .
+   50  git status
+   51  git commit -m 'meghana'
+   52  git config --global user.email "kamanimeghana1997@.com"
+   53  git config --global user.name "kamani"
+   54  git commit -m 'meghana'
+   55  git push origin
+   56  ls
+   57  cat touch
+   58  cat megha
+   59  vi megha
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit -m 'meghana'
+   64  git push orgin
+   65*
+   66  git push origin
+   67  history
+
+
+
+ git config --global user.email "kamanimeghana1997@.com"
+ git config --global user.name "kamani"
